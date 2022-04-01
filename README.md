@@ -14,7 +14,7 @@ item csv source:
 this code doesn't do much.
 
 this is written in racket. i'm using:
-* [`csv-reader`](https://docs.racket-lang.org/csv-reading/index.html)
+* [`csv-reading`](https://docs.racket-lang.org/csv-reading/index.html)
 * [`json`](https://docs.racket-lang.org/json/index.html)
 
 to run: `$ racket parse.rkt | jq 'first'`
