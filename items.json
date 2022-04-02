@@ -1,0 +1,207 @@
+[
+  {
+    "effect": "Boosts maximum equipment load",
+    "name": "Havel's Ring",
+    "desc": "This ring was named after Havel the Rock,\\nLord Gwyn's old battlefield compatriot.\\n\\nHavel's men wore the ring to express faith in\\ntheir leader and to carry a heavier load."
+  },
+  {
+    "effect": "Boosts ATK while HP is low",
+    "name": "Red Tearstone Ring",
+    "desc": "The rare gem called tearstone has the\\nuncanny ability to sense imminent death.\\n\\nThis red tearstone from Carim boosts the\\nattack of its wearer when in danger."
+  },
+  {
+    "effect": "Answer Dark Sun Gwyndolin's summoning",
+    "name": "Darkmoon Blade Covenant Ring",
+    "desc": "Ring granted to those bound by the\\nDarkmoon Blade covenant.\\nAnswer Dark Sun Gwyndolin's summoning.\\n\\nGwyndolin, all too aware of his repulsive,\\nfrail appearance, created the illusion of \\na sister Gwynevere, who helps him guard\\nover Anor Londo. An unmasking of these\\ndeities would be tantamount to blasphemy."
+  },
+  {
+    "effect": "Answer Alvina's summoning",
+    "name": "Cat Covenant Ring",
+    "desc": "Ring granted to those bound by the\\nForest Hunter covenant.\\nAnswer Alvina's summoning.\\n\\nThe white cat Alvina speaks a human tongue\\nand has lived since the early Age of Fire.\\nAlvina was a trusted friend of Knight\\nArtorias and the Great Wolf Sif."
+  },
+  {
+    "effect": "Boosts stamina recovery speed",
+    "name": "Cloranthy Ring",
+    "desc": "This ancient ring, engraved with a large\\ngreen flower, is of unknown origin.\\n\\nHastens the regeneration of stamina."
+  },
+  {
+    "effect": "Boosts fire DEF",
+    "name": "Flame Stoneplate Ring",
+    "desc": "Stoneplates, the symbol of a true knight,\\ngrant the strength to face various hardships.\\n\\nThe red stoneplate symbolizes fire,\\nand boosts defence against flame."
+  },
+  {
+    "effect": "Boosts lightning DEF",
+    "name": "Thunder Stoneplate Ring",
+    "desc": "Stoneplates, the symbol of a true knight,\\ngrant the strength to face various hardships.\\n\\nThe yellow stoneplate symbolizes thunder,\\nand boosts defence against lightning."
+  },
+  {
+    "effect": "Boosts magic DEF",
+    "name": "Spell Stoneplate Ring",
+    "desc": "Stoneplates, the symbol of a true knight,\\ngrant the strength to face various hardships.\\n\\nThe blue stoneplate symbolizes souls,\\nand boosts defence against magic."
+  },
+  {
+    "effect": "Slight boost for magic, fire, lightning DEF",
+    "name": "Speckled Stoneplate Ring",
+    "desc": "Stoneplates, the symbol of a true knight,\\ngrant the strength to face various hardships.\\n\\nThe precious rare speckled stoneplate grants\\na small boost to defence against magic,\\nflame, and lightning."
+  },
+  {
+    "effect": "Boosts bleeding resistance",
+    "name": "Bloodbite Ring",
+    "desc": "One of the infamous bite rings\\ncommissioned by Sir Arstor of Carim.\\n\\nDespite the dreadful rumors surrounding its\\ncreation, this ring is an unmistakable asset,\\nin its ability to help prevent bleeding."
+  },
+  {
+    "effect": "Boosts poison resistance",
+    "name": "Poisonbite Ring",
+    "desc": "One of the infamous bite rings\\ncommissioned by Sir Arstor of Carim.\\n\\nDespite the dreadful rumors surrounding its\\ncreation, this ring is an unmistakable asset,\\nin its ability to help prevent poison."
+  },
+  {
+    "effect": "Small increase of HP",
+    "name": "Tiny Being's Ring",
+    "desc": "Ring made of an ancient tiny red jewel.\\nGrants small increase to HP.\\n\\nRings grant powers large and small.\\nTheir discovery, and effective use,\\ncan make one's journey easier."
+  },
+  {
+    "effect": "Boosts curse resistance",
+    "name": "Cursebite Ring",
+    "desc": "One of the infamous bite rings\\ncommissioned by Sir Arstor of Carim.\\n\\nDespite the dreadful rumors surrounding its\\ncreation, this ring is an unmistakable asset,\\nin its ability to help prevent curses."
+  },
+  {
+    "effect": "Grants additional attunement slots",
+    "name": "White Seance Ring",
+    "desc": "A divine ring entrusted to the head bishop\\nof the Way of White and apostle to\\nAllfather Lloyd, uncle to Lord Gwyn.\\nIt grants additional attunement slots.\\n\\nThe head bishop of the Way of White is the\\nguardian of law and caste, and one of the\\ngreat royals of Thorolund."
+  },
+  {
+    "effect": "Boosts sorcery",
+    "name": "Bellowing Dragoncrest Ring",
+    "desc": "A special ring granted to only the most\\naccomplished sorcerers at Vinheim Dragon\\nSchool.\\n\\nThe ring is engraved with an everlasting\\ndragon, and boosts the strength of sorceries."
+  },
+  {
+    "effect": "Grants extra sorcery castings, but halves HP",
+    "name": "Dusk Crown Ring",
+    "desc": "This magic crown-shaped ring was granted\\nto princess Dusk of Oolacile upon her birth.\\n\\nThe ringstone allows its wearer to cast\\nadditional sorceries, but at the cost of\\none-half of HP."
+  },
+  {
+    "effect": "Boosts critical attacks",
+    "name": "Hornet Ring",
+    "desc": "One of the special rings granted to the four\\nknights of Gwyn. The Hornet Ring belonged\\nto the Lord's Blade Ciaran.\\n\\nBy boosting critical attacks, its wearer can\\nannihilate foes, as Ciaran's dagger laid\\nwaste to Lord Gwyn's enemies."
+  },
+  {
+    "effect": "Extends bow range",
+    "name": "Hawk Ring",
+    "desc": "One of the special rings granted to the four\\nknights of Gwyn. The Hawk Ring belonged to\\nHawkeye Gough, who led the Greatarchers.\\n\\nBoosts bow range, so that arrows fly like\\nthey were shot by Gough's great bow,\\nwhich took down high-flying dragons."
+  },
+  {
+    "effect": "Boosts defense vs. physical attacks",
+    "name": "Ring of Steel Protection",
+    "desc": "This ring belonged to the Knight King Rendal.\\nIt grants its wearer protection by boosting\\ndefense against physical attacks.\\n\\nOf the many legends surrounding the Knight\\nKing Rendal, one of the more well-known\\nspeaks of his standing down a giant drake\\nand slashing it to pieces."
+  },
+  {
+    "effect": "Boosts item discovery",
+    "name": "Covetous Gold Serpent Ring",
+    "desc": "The serpent is an imperfect dragon and symbol\\nof the Undead. Its habit of devouring prey\\neven larger than itself has led to an\\nassociation with gluttony.\\n\\nThis gold ring, engraved with the serpent,\\nboosts its wearer's item discovery, so that\\nmore items can be amassed."
+  },
+  {
+    "effect": "Additional souls absorbed for each kill",
+    "name": "Covetous Silver Serpent Ring",
+    "desc": "The serpent is an imperfect dragon and symbol\\nof the Undead. Its habit of devouring prey\\neven larger than itself has led to an\\nassociation with gluttony.\\n\\nThis silver ring, engraved with the serpent,\\nrewards its wearer with additional souls\\nfor each kill."
+  },
+  {
+    "effect": "Wearer produces no sound whatsoever",
+    "name": "Slumbering Dragoncrest Ring",
+    "desc": "This ring was secretly worn by a certain\\nsurreptitious sorcerer at Vinheim Dragon\\nSchool.\\n\\nThe ring is engraved with an everlasting\\ndragon in silent slumber, and masks all\\nsound emitting from its wearer."
+  },
+  {
+    "effect": "Reduces presence to prevent discovery",
+    "name": "Ring of Fog",
+    "desc": "Those who befriend Alvina are given this\\nmysterious ring. It resembles a pearl with\\nits robust pure-white fog.\\n\\nThe ring camouflages its wearer's\\npresence, helping to prevent detection."
+  },
+  {
+    "effect": "Improves balance on poor footing",
+    "name": "Rusted Iron Ring",
+    "desc": "This iron ring was used to shackle the\\nguilty. It is terribly rusted, and faintly\\nstained with blood.\\n\\nThose who find this strange ring to their\\nliking will be pleased to find it easier to\\ngain footing on poor ground such as swamps."
+  },
+  {
+    "effect": "Lose nothing upon death, but ring breaks",
+    "name": "Ring of Sacrifice",
+    "desc": "This mystical ring was created in a\\nsacrificial rite of Velka, the Goddess\\nof Sin.\\n\\nIts wearer will lose nothing upon death,\\nbut the ring itself breaks."
+  },
+  {
+    "effect": "Die, lose nothing, nullify curse, ring breaks",
+    "name": "Rare Ring of Sacrifice",
+    "desc": "This mystical ring was created in a\\nsacrificial rite of Velka, the Goddess\\nof Sin. The magenta-shaded ring is\\nespecially rare.\\n\\nIts wearer will lose nothing upon death,\\nand will be freed from any curse whatsoever,\\nbut the ring itself breaks."
+  },
+  {
+    "effect": "Changes rolling action",
+    "name": "Dark Wood Grain Ring",
+    "desc": "This special ring crafted in an Eastern land\\nis made of gold, but with a wood grain crest\\non its surface.\\n\\nAgents of subterfuge in this faraway land\\nare particularly fond of the dark gold wood\\ngrain, which greatly alters its wearer's\\nrolling action."
+  },
+  {
+    "effect": "Boosts miracle synergy",
+    "name": "Ring of the Sun Princess",
+    "desc": "This ring is granted to those who enter a\\nCovenant with Gwynevere, daughter of Lord Gwyn\\nand the Princess of Sunlight. This slightly\\nwarm ring boosts the synergy of miracles.\\n\\nThe Princess of Sunlight Gwynevere left\\nAnor Londo along with many other deities,\\nand later became wife to Flame God Flann."
+  },
+  {
+    "effect": "An old ring, with no known use",
+    "name": "Old Witch's Ring",
+    "desc": "Old ring from an old witch.\\n\\nEngraved minutely with indecipherable\\nscript, but seemingly useless."
+  },
+  {
+    "effect": "Traverse abyss",
+    "name": "Covenant of Artorias",
+    "desc": "This ring symbolizes Knight Artorias's\\ncovenant with the beasts of the Abyss.\\n\\nIts wearer, like Artorias himself, can\\ntraverse the Abyss."
+  },
+  {
+    "effect": "Reduces lava damage",
+    "name": "Orange Charred Ring",
+    "desc": "An orange ring enchanted by a witch.\\nReduces lava damage.\\n\\nSince his sores were inflamed by lava\\nfrom birth, his witch sisters gave him\\nthis special ring. But fool that he is,\\nhe readily dropped it, and from that spot,\\na terrible centipede demon was born."
+  },
+  {
+    "effect": "Boosts length of sorcery effects",
+    "name": "Lingering Dragoncrest Ring",
+    "desc": "A special ring granted to only the most\\naccomplished sorcerers at Vinheim Dragon\\nSchool.\\n\\nThe ring is engraved with a lingering\\ndragon, and boosts the length of the\\neffects of sorceries."
+  },
+  {
+    "effect": "Absorbs HP from fallen enemies",
+    "name": "Ring of the Evil Eye",
+    "desc": "According to legend, this ring contains the\\nspirit of the evil eye, a dark beast which\\nassaulted Astora.\\n\\nThe strength of the evil eye does not waver,\\nand HP is absorbed from fallen enemies."
+  },
+  {
+    "effect": "Boosts HP, stamina, load. Breaks when removed.",
+    "name": "Ring of Favor and Protection",
+    "desc": "A ring symbolizing the favor and\\nprotection of the goddess Fina, known\\nin legend to possess \"fateful beauty.\"\\n\\nThis ring boosts its wearer's HP, stamina,\\nand max equipment load, but breaks if\\never removed."
+  },
+  {
+    "effect": "Boosts counter attacks of thrust weapons",
+    "name": "Leo Ring",
+    "desc": "One of the special rings granted to the four\\nknights of Gwyn. The Leo Ring belonged to\\nOrnstein the Dragonslayer.\\n\\nThis ring strengthens counters with pierce\\nweapons. His lugged spear is said\\nto have sliced a boulder in two."
+  },
+  {
+    "effect": "Slows loss of weapon durability",
+    "name": "East Wood Grain Ring",
+    "desc": "This special ring crafted in an Eastern land\\nis made of gold, but with a wood grain crest\\non its surface.\\n\\nThe ring slows the loss of weapon durability\\nand is particularly useful to bearers of\\ndelicate swords crafted in the East."
+  },
+  {
+    "effect": "Boosts poise",
+    "name": "Wolf Ring",
+    "desc": "One of the special rings granted to the four\\nknights of Gwyn. The Wolf Ring belongs to\\nArtorias the Abysswalker.\\n\\nArtorias had an unbendable will of steel,\\nand was unmatched with a greatsword."
+  },
+  {
+    "effect": "Boosts DEF while HP is low",
+    "name": "Blue Tearstone Ring",
+    "desc": "The rare gem called tearstone has the\\nuncanny ability to sense imminent death.\\n\\nThis blue tearstone from Catarina boosts the\\ndefence of its wearer when in danger."
+  },
+  {
+    "effect": "Boosts miracles",
+    "name": "Ring of the Sun's Firstborn",
+    "desc": "Lord Gwyn's firstborn, who inherited the\\nsunlight, once wore this ancient ring.\\nBoosts the strength of miracles.\\n\\nLord Gwyn's firstborn was a god of war,\\nbut his foolishness led to a loss of the\\nannals, and rescinding of his deific status.\\nToday, even his name is not known."
+  },
+  {
+    "effect": "Grants additional attunement slots",
+    "name": "Darkmoon Seance Ring",
+    "desc": "This ring is granted to adherents of\\nGwyndolin, Darkmoon deity and\\nlast born of Gwyn, Lord of Sunlight.\\nGrants additional magic attunement slots.\\n\\nThe Dark Sun Gwyndolin is the only remaining\\ndeity in Anor Londo. His followers are few,\\nbut their tasks are of vital importance."
+  },
+  {
+    "effect": "",
+    "name": "Calamity Ring",
+    "desc": ""
+  }
+]
