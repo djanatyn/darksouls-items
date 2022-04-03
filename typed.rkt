@@ -1,7 +1,7 @@
 #lang typed/racket
 
 (require/typed csv-reading
-  [csv->list (-> String (List (List String)))])
+  [csv->list (-> Input-Port (List (List String)))])
 
 (require/typed racket
   [index-of (-> (List String) String Integer)])
@@ -12,7 +12,8 @@
    [desc : String]))
 
 (: data (List (List String)))
-(define data (csv->list "Dark Souls - Accessories.csv"))
+(define data
+  (csv->list (open-input-file "Dark Souls - Accessories.csv")))
 
 (: parse-row (-> (List String) item))
 (define (parse-row row)
@@ -25,6 +26,5 @@
      (list-ref row index-effect)
      (list-ref row index-desc))))
 
-(for/list: : (List item)
-  ([row : (List String) (rest data)])
-    (parse-row row))
+data
+(map parse-row (rest data))
