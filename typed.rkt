@@ -1,21 +1,18 @@
 #lang typed/racket
 
 (require/typed csv-reading
-  [make-csv-reader (-> Input-Port (-> (List String)))]
-  [csv->list (-> (-> (List String)) (List (List String)))])
+  [csv->list (-> String (List (List String)))])
 
 (require/typed racket
   [index-of (-> (List String) String Integer)])
 
-(struct item ([name : String] [effect : String] [desc : String]))
-
-(define input (open-input-file "Dark Souls - Accessories.csv"))
-
-(: reader (-> (List String)))
-(define reader (make-csv-reader input))
+(struct item
+  ([name : String]
+   [effect : String]
+   [desc : String]))
 
 (: data (List (List String)))
-(define data (csv->list reader))
+(define data (csv->list "Dark Souls - Accessories.csv"))
 
 (: parse-row (-> (List String) item))
 (define (parse-row row)
@@ -28,5 +25,6 @@
      (list-ref row index-effect)
      (list-ref row index-desc))))
 
-;; (for/list ([row (rest data)])
-;;   (parse-row row))
+(for/list: : (List item)
+  ([row : (List String) (rest data)])
+    (parse-row row))
