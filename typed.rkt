@@ -1,8 +1,8 @@
 #lang typed/racket
 
 (require/typed csv-reading
-  [make-csv-reader (-> Any Any)]
-  [csv->list (-> Any (List (List String)))])
+  [make-csv-reader (-> Input-Port (-> (List String)))]
+  [csv->list (-> (-> (List String)) (List (List String)))])
 
 (require/typed racket [index-of (-> (List Any) Any Integer)])
 
@@ -11,6 +11,7 @@
 (define input (open-input-file "Dark Souls - Accessories.csv"))
 (define reader (make-csv-reader input))
 
+(: data (List (List String)))
 (define data (csv->list reader))
 
 (: parse-row (-> (List String) item))
