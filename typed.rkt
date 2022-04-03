@@ -4,11 +4,14 @@
   [make-csv-reader (-> Input-Port (-> (List String)))]
   [csv->list (-> (-> (List String)) (List (List String)))])
 
-(require/typed racket [index-of (-> (List Any) Any Integer)])
+(require/typed racket
+  [index-of (-> (List String) String Integer)])
 
 (struct item ([name : String] [effect : String] [desc : String]))
 
 (define input (open-input-file "Dark Souls - Accessories.csv"))
+
+(: reader (-> (List String)))
 (define reader (make-csv-reader input))
 
 (: data (List (List String)))
